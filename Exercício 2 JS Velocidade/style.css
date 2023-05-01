@@ -1,0 +1,12 @@
+.title{
+    text-align: center;
+    height: auto;
+    width: auto;
+    margin: 20%;
+    border-style: solid;
+    border-color: aliceblue;
+    color: aliceblue;
+}
+body{
+   background-color:#2E4053  ;
+}
